@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mryanware
 - 👀 I’m interested in anything AR/Vr
-- 🌱 I’m currently learning Swift
+- 🌱 Swift
 - 💞️ I’m looking to collaborate on any projects that I feel have meaning
 - 📫 How to reach me ryanw@emeryschools.org
 
